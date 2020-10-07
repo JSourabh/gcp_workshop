@@ -1,0 +1,8 @@
+Kubernetes Load Balancer site url 
+
+34.126.68.222
+
+
+Wordpress site url
+
+34.126.110.243
